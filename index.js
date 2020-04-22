@@ -5,9 +5,9 @@ const port = process.env.PORT || 3003
 const apiVersion = {
     name : 'Sample Express Api',
     version: '1.0.0',
-    author: 'nigga',
+    author: 'lautaro',
     contactInfo: {
-        facebook: 'Nigga Sosa',
+        facebook: 'Lautaro Sosa',
         Insta: 'Lautaro Sosa', 
         twitter: 'Wcio'
         
